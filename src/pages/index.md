@@ -6,9 +6,10 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: 'Endure the pain, Enjoy the gain.'
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      JS Classic Gym is one of the leading fitness centers in Coimbatore. It has
+      various types of machinery and equipment for all types of workouts. Come,
+      Join hands with us and let's grow stronger!
     actions:
       - label: Learn More
         url: /features
