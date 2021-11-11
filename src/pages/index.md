@@ -18,8 +18,8 @@ sections:
     background: gray
     title: Features
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      We have all types of machinery and equipments for all kinds of workouts.
+      #TryThemNow
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
