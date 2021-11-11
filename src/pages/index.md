@@ -52,10 +52,10 @@ sections:
       - title: Flexible Timings
         image: images/feature3.png
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >
+          We open at 6 AM and stay up to 10 AM. Then evening 5 PM to 10 PM. We
+          are dedicated, and we want you to be dedicated and hence we are
+          flexible with the timings.
         actions:
           - label: Learn More
             url: /features
