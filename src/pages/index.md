@@ -93,7 +93,7 @@ sections:
     title: Start today.
     subtitle: 'Call and enquire us, we value customers more than anything.'
     actions:
-      - label: Get Started
+      - label: Call us
         url: /signup
         style: primary
   - section_id: recent-posts
