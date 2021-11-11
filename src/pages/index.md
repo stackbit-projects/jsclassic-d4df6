@@ -53,9 +53,9 @@ sections:
         image: images/feature3.png
         image_alt: App user profile preview
         content: >
-          We open at 6 AM and stay up to 10 AM. Then evening 5 PM to 10 PM. We
-          are dedicated, and we want you to be dedicated and hence we are
-          flexible with the timings. Admission Fee Rs.600, Monthly Fee - Rs.400.
+          Come work out at any time you want. We open at 6 AM and stay up to 10
+          AM. Then evening 5 PM to 10 PM. Admission Fee Rs.600, Monthly Fee -
+          Rs.400.
         actions:
           - label: Learn More
             url: /features
