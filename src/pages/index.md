@@ -7,9 +7,8 @@ sections:
     image_alt: App preview
     title: 'Endure the pain, Enjoy the gain.'
     content: >
-      JS Classic Gym is one of the leading fitness centers in Coimbatore. It has
-      various types of machinery and equipment for all types of workouts. Come,
-      Join hands with us and let's grow stronger!
+      JS Classic Gym is one of the leading fitness centers in Coimbatore. Come,
+      join hands with us and let's grow stronger!
     actions:
       - label: Learn More
         url: /features
