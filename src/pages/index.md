@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/Screenshot 2021-11-11 at 10.59.55 PM.png
     image_alt: App preview
     title: 'Endure the pain, Enjoy the gain.'
     content: >
