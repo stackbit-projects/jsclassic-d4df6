@@ -21,7 +21,7 @@ sections:
       We have all types of machinery and equipments for all kinds of workouts.
       #TryThemNow
     features:
-      - title: The Best Feature of Your Services
+      - title: Power Machines and Heavy weights
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
