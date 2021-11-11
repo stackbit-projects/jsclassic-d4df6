@@ -38,10 +38,10 @@ sections:
       - title: Get Ready to Burn
         image: images/feature2.png
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >
+          One thing that we all need to burn is - the FAT. We believe that
+          movement is medicine and working out is the best way to care for our
+          physical and emotional well-being.
         actions:
           - label: Learn More
             url: /features
