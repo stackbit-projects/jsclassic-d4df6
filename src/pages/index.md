@@ -91,7 +91,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Start today.
-    subtitle: This is an optional description for the call to action block.
+    subtitle: 'Call and enquire us, we value customers more than anything.'
     actions:
       - label: Get Started
         url: /signup
