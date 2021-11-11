@@ -24,10 +24,10 @@ sections:
       - title: Power Machines and Heavy weights
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          We combine the best aspects of HIIT, Strength Training + Hard Core
+          Pilates to create a heart-pumping, body-shaking workout. Take as long
+          as you want, we just deliver results.
         actions:
           - label: Learn More
             url: /features
