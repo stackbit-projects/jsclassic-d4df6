@@ -71,7 +71,7 @@
                         "url": "https://twitter.com/",
                         "style": "link",
                         "has_icon": true,
-                        "icon": "twitter",
+                        "icon": "arrow-right",
                         "icon_position": "left"
                     },
                     {
